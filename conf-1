@@ -1,5 +1,5 @@
 {
 "DEFAULT-BEHAVOIR-2R":"2",
-"G-SLEEP":"10",
+"G-SLEEP":"5",
 "MAIN-SERVER":"http://192.168.223.223:5555"
 }
